@@ -1,6 +1,3 @@
-[submodule "extern/PlayniteCommon"]
-	path = extern/PlayniteCommon
-	url = https://github.com/felixkmh/PlayniteCommon
 [submodule "include/PlayniteCommon"]
 	path = include/PlayniteCommon
 	url = https://github.com/CanRanBan/PlayniteExtensionFork-Module-felixkmh-PlayniteCommon.git
